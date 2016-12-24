@@ -1,0 +1,37 @@
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\Web Service.dll.config
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\Web Service.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\Web Service.pdb
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\Microsoft.Web.Infrastructure.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\Newtonsoft.Json.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Net.Http.Formatting.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Cors.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Helpers.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Cors.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Tracing.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.WebHost.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Mvc.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Razor.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Deployment.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.pdb
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\Newtonsoft.Json.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Net.Http.Formatting.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Helpers.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Cors.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Tracing.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.WebHost.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Mvc.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Razor.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Deployment.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.xml
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.dll
+E:\PhuTruc\KiemThuPhanMem\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
